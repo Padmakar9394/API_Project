@@ -29,7 +29,13 @@ const publication = [
     id: 1,
     name: "writex",
     books: "12345Book"
+  },
+  {
+    id: 2,
+    name: "writex2",
+    books: []
   }
+
 ]
 
 module.exports = {books, author, publication};
